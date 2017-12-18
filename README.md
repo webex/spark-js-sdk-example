@@ -1,1 +1,1 @@
-"The JavaScript SDK Example Application has been deprecated. Please see our [SDK Samples](https://developer.ciscospark.com/sdk-for-browsers.html#samples) over on [Cisco Spark for Developers](https://developer.ciscospark.com/) for example uses of the JavaScript SDK."
+The JavaScript SDK Example Application has been deprecated. Please see our [SDK Samples](https://developer.ciscospark.com/sdk-for-browsers.html#samples) over on [Cisco Spark for Developers](https://developer.ciscospark.com/) for example uses of the JavaScript SDK.
